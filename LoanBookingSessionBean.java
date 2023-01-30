@@ -1,5 +1,4 @@
 import java.util.Scanner;  
-import java.util.collector;  
 
 public class SpiralPatternExample2
 {  
